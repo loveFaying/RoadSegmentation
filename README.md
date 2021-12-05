@@ -9,8 +9,8 @@
 ```
 - U2Net_SUP
 ```
-    get_u2net_sup_model()
-    get_u2netp_sup_model()
+	get_u2net_sup_model()
+	get_u2netp_sup_model()
 ```
 - SegNet
 - SCNN
